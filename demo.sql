@@ -1,0 +1,1 @@
+CREATE TABLE emp (int id) into demo;
